@@ -264,11 +264,9 @@ int main()
 	CPU.AddProcess();
 	CPU.AddProcess();
 	CPU.AddProcess();
-	CPU.AddProcess();
 	system("cls");
 	CPU.PlanHPRN();
 	CPU.PlanFCFS();
 	system("pause");
 }
-//1 2 1 3 2 4 3 5 4 6 5
 //10 4 3 8 5 5 6
